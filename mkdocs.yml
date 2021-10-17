@@ -11,7 +11,7 @@ theme:
   favicon: assets/favicon.png
 
 extra_css:
-  - stylesheets/extra.css
+  - extra.css
 
 extra_javascript:
   - javascript/ie_compatibility.js

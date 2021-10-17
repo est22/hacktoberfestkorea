@@ -7,8 +7,7 @@ theme:
   language: kr
   custom_dir: 'theme'
   palette:
-    scheme: default
-    primary: red
+    scheme: 2021color
   favicon: assets/favicon.png
 
 extra_css:

@@ -2,7 +2,7 @@ body {
     word-break: keep-all;
 }
 
-[data-md-color-scheme="2021color"] {
+:root {
   --md-primary-fg-color:        #91A88C;
   --md-primary-fg-color--light: #91A88C;
   --md-primary-fg-color--dark:  #91A88C;

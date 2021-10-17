@@ -8,7 +8,6 @@ theme:
   custom_dir: 'theme'
   palette:
     scheme: default
-    primary: 2021color
     accent: deep orange
   favicon: assets/favicon.png
 

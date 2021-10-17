@@ -8,6 +8,7 @@ theme:
   custom_dir: 'theme'
   palette:
     scheme: 2021color
+    accent: deep orange
   favicon: assets/favicon.png
 
 extra_css:
